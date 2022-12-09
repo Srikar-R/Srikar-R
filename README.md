@@ -1,5 +1,5 @@
  👋 Hi, I’m @Srikar-R
-- 👀 I’m interested in Data Anlalytics, mathematics and philosophy
+- 👀 A data analyst with 1 year of experience
 - 🌱 and yes numbers do tell stories...
 You can look into some of my projects that vary from very beginner levels to slightly advanced in concepts.
 
