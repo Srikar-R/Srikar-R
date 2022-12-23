@@ -2,7 +2,7 @@
 - 👀 A data analyst with 1 year of experience
 - 
 
-### Find my projects in the repos
+### Frojects in the repositories :)
 
 <!---
 Srikar-R/Srikar-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
