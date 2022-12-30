@@ -1,5 +1,7 @@
- 👋 Hi, I’m @Srikar-R
+ 👋 Hi, I’m Srikar R
 - 👀 A data analyst with 1 year of experience
+
+This repo is all about: Python, Stats, Data Analysis, Machine Learning
 - 
 
 ### Projects in the repositories :)
