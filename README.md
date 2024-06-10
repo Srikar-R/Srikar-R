@@ -1,12 +1,2 @@
- 👋 Hi, I’m Srikar R
-- 👀 A data analyst 
-
-This repo is all about: Python, Stats, Data Analysis, Machine Learning
-- 
-
-### Projects in the repositories :)
-
-<!---
-Srikar-R/Srikar-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 👋 Hi, I’m Srikar R, a data scientist existing in this vast universe which has some crazy odds of surviving. While you survive in this universe, don't forget to check out some cool projects
+ 
