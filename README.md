@@ -1,2 +1,3 @@
- 👋 Hi, I’m Srikar R, a data scientist existing in this vast universe which has some crazy odds of surviving. While you survive in this universe, don't forget to check out some projects I have made. Hope it helped you in someway!
+👋 Hi, I’m Srikar R, another data scientist existing in this universe. Nice to meet you. Here you will find some pet projects and some random things I have built in the machine learning space. I liked to researc potential ideas and build a small scale version of it myself for the sake of building :) 
+
  
